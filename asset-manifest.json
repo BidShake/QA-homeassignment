@@ -1,11 +1,11 @@
 {
-  "main.css": "/static/css/main.5eb5b76d.chunk.css",
-  "main.js": "/static/js/main.aa0ed67b.chunk.js",
-  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
-  "static/css/2.fad7a28b.chunk.css": "/static/css/2.fad7a28b.chunk.css",
-  "static/js/2.4013712c.chunk.js": "/static/js/2.4013712c.chunk.js",
-  "index.html": "/index.html",
-  "precache-manifest.933b1186e8cfe980a504f4aaa1c96838.js": "/precache-manifest.933b1186e8cfe980a504f4aaa1c96838.js",
-  "service-worker.js": "/service-worker.js",
-  "static/media/index.css": "/static/media/muli-latin-900italic.f99056b6.woff2"
+  "main.css": "/QA-homeassignment/static/css/main.5eb5b76d.chunk.css",
+  "main.js": "/QA-homeassignment/static/js/main.fe64ea36.chunk.js",
+  "runtime~main.js": "/QA-homeassignment/static/js/runtime~main.bfdf39c1.js",
+  "static/css/2.aa22f4f2.chunk.css": "/QA-homeassignment/static/css/2.aa22f4f2.chunk.css",
+  "static/js/2.75030a7e.chunk.js": "/QA-homeassignment/static/js/2.75030a7e.chunk.js",
+  "index.html": "/QA-homeassignment/index.html",
+  "precache-manifest.7c094f6ae33ede41b4a5a4853631d511.js": "/QA-homeassignment/precache-manifest.7c094f6ae33ede41b4a5a4853631d511.js",
+  "service-worker.js": "/QA-homeassignment/service-worker.js",
+  "static/media/index.css": "/QA-homeassignment/static/media/muli-latin-900italic.f99056b6.woff2"
 }
