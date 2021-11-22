@@ -17,12 +17,6 @@ jobs:
           npm install
           npm run build
 
-      - name: Copy file 404
-        run: 'cp 404.html build/404.html'
-
-      - name: Copy file 404 JS
-        run: 'cp ghspa.js build/ghspa.js'
-
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.6
         with:
