@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/QA-homeassignment/static/media/muli-latin-600.4273185a.woff2"
   },
   {
-    "revision": "fe64ea36f7f97205a3c0",
+    "revision": "2655665357fb5073aada",
     "url": "/QA-homeassignment/static/css/main.5eb5b76d.chunk.css"
   },
   {
@@ -28,16 +28,16 @@ self.__precacheManifest = [
     "url": "/QA-homeassignment/static/media/muli-latin-200.b79246db.woff"
   },
   {
+    "revision": "ed5f4d703d12d159cda99d1cb125c217",
+    "url": "/QA-homeassignment/static/media/muli-latin-200italic.ed5f4d70.woff2"
+  },
+  {
     "revision": "787c91cfe2aa739cebd29833fe1dad24",
     "url": "/QA-homeassignment/static/media/muli-latin-200italic.787c91cf.woff"
   },
   {
     "revision": "73d23299b229dfb09a7ee6a0e17cbb0b",
     "url": "/QA-homeassignment/static/media/muli-latin-300.73d23299.woff2"
-  },
-  {
-    "revision": "ed5f4d703d12d159cda99d1cb125c217",
-    "url": "/QA-homeassignment/static/media/muli-latin-200italic.ed5f4d70.woff2"
   },
   {
     "revision": "6e03d5eb9f5824d4d419f37d4b251346",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/QA-homeassignment/static/media/muli-latin-400italic.688fb50a.woff"
   },
   {
-    "revision": "fe64ea36f7f97205a3c0",
-    "url": "/QA-homeassignment/static/js/main.fe64ea36.chunk.js"
+    "revision": "2655665357fb5073aada",
+    "url": "/QA-homeassignment/static/js/main.26556653.chunk.js"
   },
   {
     "revision": "0f2fbd56c70276163bf298818df7663c",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/QA-homeassignment/static/css/2.aa22f4f2.chunk.css"
   },
   {
-    "revision": "a52b14043f1f6cf76451bbc76b080d79",
+    "revision": "ddbe69761e5e5736b3b52551ebd9311d",
     "url": "/QA-homeassignment/index.html"
   }
 ];
