@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/QA-homeassignment/static/media/muli-latin-600.4273185a.woff2"
   },
   {
-    "revision": "38a1d1c583a47e610aa2",
+    "revision": "1721b30de03d106e62e6",
     "url": "/QA-homeassignment/static/css/main.5eb5b76d.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/QA-homeassignment/static/media/muli-latin-400italic.688fb50a.woff"
   },
   {
-    "revision": "38a1d1c583a47e610aa2",
-    "url": "/QA-homeassignment/static/js/main.38a1d1c5.chunk.js"
+    "revision": "1721b30de03d106e62e6",
+    "url": "/QA-homeassignment/static/js/main.1721b30d.chunk.js"
   },
   {
     "revision": "0f2fbd56c70276163bf298818df7663c",
@@ -132,7 +132,7 @@ self.__precacheManifest = [
     "url": "/QA-homeassignment/static/css/2.aa22f4f2.chunk.css"
   },
   {
-    "revision": "b57baeaa84182384f873e596facdbb59",
+    "revision": "5a3346df5412f7fc0eb15e7211b8af36",
     "url": "/QA-homeassignment/index.html"
   }
 ];
