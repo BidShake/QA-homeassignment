@@ -30,7 +30,7 @@ const App = () => {
             <JssProvider jss={jss} generateClassName={generateClassName}>
                 <Provider store={store}>
                     <Auth>
-                        <Router history={history}>
+                        <Router basename={'/QA-homeassignment'} history={history}>
                             <FuseAuthorization>
                                 <FuseTheme>
                                     <FuseLayout/>
