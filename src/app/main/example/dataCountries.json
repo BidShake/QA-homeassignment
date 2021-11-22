@@ -1,0 +1,38 @@
+[  
+	{
+        "code": "US",
+        "name": "United States"
+    },
+	{
+        "code": "CA",
+        "name": "Canada"
+    },
+	{
+        "code": "BR",
+        "name": "Brazil"
+    },
+	{
+        "code": "VU",
+        "name": "Vanuatu"
+    },
+	{
+        "code": "MV",
+        "name": "Maldives"
+    },
+    {
+        "code": "HK",
+        "name": "Hong Kong"
+    },
+    {
+        "code": "BO",
+        "name": "Bolivia"
+    },
+    {
+        "code": "SO",
+        "name": "Somalia"
+    },
+    {
+        "code": "KW",
+        "name": "Kuwait"
+    }
+]
