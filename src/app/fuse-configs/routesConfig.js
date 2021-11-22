@@ -11,7 +11,7 @@ const routeConfigs = [
     ...FuseUtils.generateRoutesFromConfigs(routeConfigs),
     {
         path     : '/',
-        component: () => <Redirect to={`${process.env.PUBLIC_URL}/example`}/>
+        component: () => <Redirect to="/example"/>
     }
 ];
 
