@@ -157,7 +157,7 @@ class ExampleItem extends React.Component {
                         value={item.code}
                         onChange={(e) => this.props.onCheckTargeting(item.code, item.original)}
                     />
-                    <img src={"assets/images/flags/" + item.code.toLowerCase() + ".svg"} alt="" className={classes.flag}></img>
+                    <img src={`${process.env.PUBLIC_URL}/assets/images/flags/${item.code.toLowerCase()}.svg`} alt="" className={classes.flag}></img>
                     <span className={classes.countryName}>
 						{item.name}
 					</span>
